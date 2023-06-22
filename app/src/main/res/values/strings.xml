@@ -13,6 +13,8 @@
     <string name="nine">9</string>
     <string name="divide">/</string>
     <string name="plus">+</string>
-    <string name="minus">-</string>
+    <string name="subtract">-</string>
     <string name="equal">=</string>
+    <string name="multiply">*</string>
+    <string name="clear">Clear</string>
 </resources>
