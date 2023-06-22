@@ -7,4 +7,5 @@
     <color name="buttonBgColor">#2a9d8f</color>
     <color name="textColor">#9a8c98</color>
     <color name="lightGrey">#EFEFEF</color>
+    <color name="grey">#90a4ae</color>
 </resources>
